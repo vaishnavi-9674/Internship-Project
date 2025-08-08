@@ -1,0 +1,5 @@
+📍 Weather Report for Mumbai
+Temperature : 28 °C
+Feels Like  : 32 °C
+Condition   : Mist
+Humidity    : 84%
